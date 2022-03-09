@@ -1,16 +1,16 @@
-### Hi there 👋
+# Heyo!
+Here's a bunch of things about me you might find useful (or not)
 
-<!--
-**Peruibeloko/Peruibeloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a guy and my name is Carlos
+- I'm from São Paulo, Brazil
+- I'm in my early 20s
+- I work as a Solutions Architect
+- I have a bachelor's degree in Computer Science
+- I mostly code for fun and studies.
+- My favorite language is JavaScript (at the moment)
+- I'm currently studying Functional Programming using Haskell and Elm
+- I suck at mobile layouts and focus mostly in desktop web apps
 
-Here are some ideas to get you started:
+My [blog](https://peruibeloko.github.io/) is pretty much dead, but I'll revive it at some point
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do music as well! If you like loud noises, consider chekcing some of [my stuff](https://soundcloud.com/dynmic) out :D

@@ -7,7 +7,8 @@ Here's a bunch of things about me you might find useful (or not)
 - I work as a Solutions Architect
 - I have a bachelor's degree in Computer Science
 - I mostly code for fun and studies.
-- My favorite language is JavaScript (at the moment)
+- My go-to language is JavaScript
+- My go-to framework is Vue, but Svelte is definitely catching up
 - I'm currently studying Functional Programming using Haskell and Elm
 - I suck at mobile layouts and focus mostly in desktop web apps
 

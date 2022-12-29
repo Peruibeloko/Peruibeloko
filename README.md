@@ -1,10 +1,8 @@
-# Hello!
+# Hello there
 Here's a bunch of things about me you might find interesting (or not)
 
-- I'm a guy and my name is Carlos
 - I'm from São Paulo, Brazil
-- I'm in my early 20s
-- I work as a Solutions Architect
+- I'm a Solutions Architect
 - I have a bachelor's degree in Computer Science
 - My go-to language is JavaScript
 - My go-to framework is Vue, but Svelte is definitely catching up

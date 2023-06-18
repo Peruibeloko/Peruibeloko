@@ -8,6 +8,6 @@ Aqui está uma listinha de coisas sobre mim que talvez você ache interessante:
 - Atualmente estou estudando Engenharia de Software mais a fundo, bem como Programação Funcional e algumas outras coisinhas por aí
 - Não me dou bem com layouts para mobile
 
-Estou reescrevendo meu [site](https://peruibeloko.github.io/) pela sétima vez, dessa vez em [Eleventy](https://www.11ty.dev/)
+Estou reescrevendo meu [site](https://peruibeloko.github.io/) pela quinta vez, dessa vez em [Nuxt](https://www.nuxt.com/)
 
 Se você gosta de barulhos altos, talvez goste das [minhas músicas](https://linktr.ee/dyn.mic)!

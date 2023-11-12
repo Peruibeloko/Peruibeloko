@@ -27,12 +27,9 @@ Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum mom
 - [Headless blog CMS](https://github.com/Peruibeloko/typewriter)
 - Lightweight Kanban/Scrum app
   - Planning poker app
-  - - Programming language
+- Programming language
   - Purely functional while allowing local mutation
   - Imperative Shell, Functional Core
-- Yet another programming language
-  - Compiles to TeX
-  - Offers a better way to typeset without having to deal with TeX shenanigans
 - Minecraft mod
   - Oil extraction and refinery
 - Git visualizer/simulator
@@ -65,4 +62,4 @@ Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum mom
   - Sound preview
   - Discards inversions at first
   - Orders chord by pitch in ascending order for parsing
-
+- Batch FL Studio project exporting tool

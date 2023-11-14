@@ -26,18 +26,15 @@ Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum mom
   
   </summary>
 
-  - Standard GitHub template for SPAs
-    - [Vue](https://github.com/peruibeloko/template-vue)
-    - [Svelte](https://github.com/peruibeloko/template-svelte)
-  - [Time calculator](https://github.com/Peruibeloko/time-calculator)
-  - [Headless blog CMS](https://github.com/Peruibeloko/typewriter)
   - Lightweight Kanban/Scrum app
     - Planning poker app
   - Programming language
-    - Purely functional while allowing local mutation
+    - Purely functional while allowing local (?) mutation
+    - Local mutation has to be further defined
+    - Look into React's useState hook scoping
     - Imperative Shell, Functional Core
   - Minecraft mod
-    - Oil extraction and refinery
+    - Realistic oil extraction and refinery
   - Git visualizer/simulator
     - Allows for visual construction of branches and commits
     - Might allow for git command generation by using a before/after comparison

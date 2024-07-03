@@ -1,14 +1,12 @@
-# eae
-
 Aqui está uma listinha de coisas sobre mim que talvez você ache interessante:
 
-- Paulistano e Mooquense (ORRA MEUUU 🤌)
-- Dev. Sênior & Arquiteto em busca de novas oportunidades (me contrata pf)
+- Paulistano e Mooquense
+- Dev. Sênior & Arquiteto em busca de novas oportunidades
 - Bacharel em Ciências da Computação pela UAM, com planos de iniciar um mestrado
 - Minha linguagem principal é TypeScript
 - Atualmente estudando Elixir e programação funcional no geral
 
-Dá uma olhada no meu [site](https://peruibeloko.github.io/) para mais infos
+Dá uma olhada no meu [site](https://carlinhos.dev.br/) para mais infos
 
 Se você gosta de barulhos altos, talvez goste das [minhas músicas](https://linktr.ee/dyn.mic)!
 

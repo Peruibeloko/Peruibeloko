@@ -1,8 +1,8 @@
-Aqui está uma listinha de coisas sobre mim que talvez você ache interessante:
+# Pode me chamar de Carlinhos, tudo bão?
 
 - Paulistano e Mooquense
-- Dev. Sênior & Arquiteto em busca de novas oportunidades
-- Bacharel em Ciências da Computação pela UAM, com planos de iniciar um mestrado
+- Programador e Arquiteto de Soluções
+- Bacharel em Ciências da Computação
 - Minha linguagem principal é TypeScript
 - Atualmente estudando Elixir e programação funcional no geral
 

@@ -1,10 +1,10 @@
 # Pode me chamar de Carlinhos, tudo bão?
 
-- Paulistano e Mooquense
-- Programador e Arquiteto de Soluções
+- Paulistano e Mooquense morando em Santos
+- Programador e Arquiteto de Software/Soluções
 - Bacharel em Ciências da Computação
 - Minha linguagem principal é TypeScript
-- Atualmente estudando Elixir e programação funcional no geral
+- Atualmente estudando programação funcional no geral
 
 Dá uma olhada no meu [site](https://carlinhos.dev.br/) para mais infos
 
@@ -14,7 +14,7 @@ Se você gosta de barulhos altos, talvez goste das [minhas músicas](https://lin
 
 # Projetos
 
-Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum momento. Sinta-se a vontade caso queira tentar implementar algum dessa lista!
+Isso é uma lista de ideias de projetos que eu gostaria de realizar em algum momento.
 
 <details>
   <summary> 

@@ -1,4 +1,4 @@
-# Pode me chamar de Carlinhos, tudo bão?
+# eae
 
 - Paulistano e Mooquense morando em Santos
 - Programador e Arquiteto de Software/Soluções
